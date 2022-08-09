@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1655346342 source:c:\users\lfnv1\documents\estructurasdinamicastemplates\main.cpp
+	"src\NodoS.cpp"
+	"src\ListaDoble.cpp"
+
+1655348809 c:\users\lfnv1\documents\estructurasdinamicastemplates\src\nodos.cpp
+	"NodoS.h"
+	"ListaCircular.cpp"
+
+1655346078 c:\users\lfnv1\documents\estructurasdinamicastemplates\include\nodos.h
+	"ListaCircular.h"
+
+1655339295 c:\users\lfnv1\documents\estructurasdinamicastemplates\include\listacircular.h
+	"Lista.h"
+
+1655329366 c:\users\lfnv1\documents\estructurasdinamicastemplates\include\lista.h
+	"ColaCircular.h"
+
+1655327524 c:\users\lfnv1\documents\estructurasdinamicastemplates\include\colacircular.h
+	"Cola.h"
+
+1655309484 c:\users\lfnv1\documents\estructurasdinamicastemplates\include\cola.h
+	"Pila.h"
+
+1655304831 c:\users\lfnv1\documents\estructurasdinamicastemplates\include\pila.h
+	"Nodo.h"
+
+1655303637 c:\users\lfnv1\documents\estructurasdinamicastemplates\include\nodo.h
+	<iostream>
+
+1655341553 c:\users\lfnv1\documents\estructurasdinamicastemplates\src\listacircular.cpp
+	"ListaCircular.h"
+	"Lista.cpp"
+
+1655339296 c:\users\lfnv1\documents\estructurasdinamicastemplates\src\lista.cpp
+	"Lista.h"
+	"ColaCircular.cpp"
+
+1655340498 c:\users\lfnv1\documents\estructurasdinamicastemplates\src\colacircular.cpp
+	"ColaCircular.h"
+	"Cola.cpp"
+
+1655309484 c:\users\lfnv1\documents\estructurasdinamicastemplates\src\cola.cpp
+	"Cola.h"
+	"Pila.cpp"
+
+1655339296 c:\users\lfnv1\documents\estructurasdinamicastemplates\src\pila.cpp
+	"Pila.h"
+	"Nodo.cpp"
+
+1655303655 c:\users\lfnv1\documents\estructurasdinamicastemplates\src\nodo.cpp
+	"Nodo.h"
+
+1655343509 c:\users\lfnv1\documents\estructurasdinamicastemplates\src\listadoble.cpp
+	"ListaDoble.h"
+	"NodoDoble.cpp"
+
+1655342977 c:\users\lfnv1\documents\estructurasdinamicastemplates\include\listadoble.h
+	"NodoDoble.h"
+
+1655342097 c:\users\lfnv1\documents\estructurasdinamicastemplates\include\nododoble.h
+	<iostream>
+
+1655343000 c:\users\lfnv1\documents\estructurasdinamicastemplates\src\nododoble.cpp
+	"NodoDoble.h"
+
+1655309484 source:c:\users\lfnv1\documents\estructurasdinamicastemplates\src\cola.cpp
+	"Cola.h"
+	"Pila.cpp"
+
+1655340498 source:c:\users\lfnv1\documents\estructurasdinamicastemplates\src\colacircular.cpp
+	"ColaCircular.h"
+	"Cola.cpp"
+
+1655339296 source:c:\users\lfnv1\documents\estructurasdinamicastemplates\src\lista.cpp
+	"Lista.h"
+	"ColaCircular.cpp"
+
+1655341553 source:c:\users\lfnv1\documents\estructurasdinamicastemplates\src\listacircular.cpp
+	"ListaCircular.h"
+	"Lista.cpp"
+
+1655343509 source:c:\users\lfnv1\documents\estructurasdinamicastemplates\src\listadoble.cpp
+	"ListaDoble.h"
+	"NodoDoble.cpp"
+
+1655348809 source:c:\users\lfnv1\documents\estructurasdinamicastemplates\src\multilista.cpp
+	"Multilista.h"
+	"NodoS.cpp"
+
+1655349179 c:\users\lfnv1\documents\estructurasdinamicastemplates\include\multilista.h
+	"NodoS.h"
+
+1655303655 source:c:\users\lfnv1\documents\estructurasdinamicastemplates\src\nodo.cpp
+	"Nodo.h"
+
+1655346236 source:c:\users\lfnv1\documents\estructurasdinamicastemplates\src\nodod.cpp
+	"NodoD.h"
+
+1655346078 c:\users\lfnv1\documents\estructurasdinamicastemplates\include\nodod.h
+	"ListaDoble.h"
+
+1655343000 source:c:\users\lfnv1\documents\estructurasdinamicastemplates\src\nododoble.cpp
+	"NodoDoble.h"
+
+1655348809 source:c:\users\lfnv1\documents\estructurasdinamicastemplates\src\nodos.cpp
+	"NodoS.h"
+	"ListaCircular.cpp"
+
+1655339296 source:c:\users\lfnv1\documents\estructurasdinamicastemplates\src\pila.cpp
+	"Pila.h"
+	"Nodo.cpp"
+
